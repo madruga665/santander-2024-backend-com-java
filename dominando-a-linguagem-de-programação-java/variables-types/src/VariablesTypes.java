@@ -1,4 +1,4 @@
-public class App {
+public class VariablesTypes {
     public static void main(String[] args) throws Exception {
         byte idade = 123;
 		short ano = 2021;
